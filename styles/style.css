@@ -92,7 +92,6 @@
 }
 
 .cover__title {
-  text-transform: uppercase;
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 100px;
@@ -102,7 +101,7 @@
   color: #FFFFFF;
 }
 
-.aligned-text{
+.aligned-text {
   display: block;
 }
 
@@ -371,11 +370,6 @@
   margin-right: 50px;
 }
 
-.footer__social-list {
-  width: 163px;
-  height: 64px;
-}
-
 .footer__links-list {
   font-family: Raleway, sans-serif;
   font-weight: 400;
@@ -386,7 +380,7 @@
   text-align: center;
 }
 
-.footer__link_active{
+.footer__link_active {
   text-decoration: none;
 }
 
